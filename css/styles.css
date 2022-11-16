@@ -1,0 +1,61 @@
+body {
+    background-color: aqua;
+}
+
+#beauty {
+    color: rgb(122, 255, 255);
+    font-size: 100px;
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    /* 
+    WHY DOESN'T CHROME SUPPORT CURSIVE FONT FAMILIES BY DEFAULT?
+    Open this in Firefox if you want the <em>real</em> experience.
+    */
+}
+
+.index-h1 {
+    color: darkgoldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.meatloaf {
+    background-color:bisque;
+    font-size: 24px;
+}
+
+.meat {
+    color: red;
+    font-size: 69px; /* Nice. */
+    text-align: right;
+    font-family: "Lucida Console", monospace;
+}
+
+.mac-n-cheese {
+    background-color:khaki;
+    font-size: 34px;
+}
+
+.chicken {
+    background-color: darksalmon;
+    font-size: 44px;
+}
+
+.meatloaf-img {
+    height: auto;
+    width: 750px;
+}
+
+.cheese-img {
+    height: auto;
+    width: 824px;
+}
+
+.howdy {
+    font-size: 12px;
+}
+
+.style {
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
+    text-decoration: underline overline wavy;
+}
